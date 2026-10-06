@@ -1,0 +1,18 @@
+{
+  "outer_folds": 5,
+  "inner_folds": 3,
+  "split_seed": 20260925,
+  "search_seed": 11,
+  "budget": 200,
+  "penalty": 0.02,
+  "bootstraps": 16,
+  "pool_size": 512,
+  "disease": "",
+  "evidence_scope": "Supplied module membership; disease interpretations are hypotheses",
+  "search": {
+    "niche_capacity": 6,
+    "outside_exploration_probability": 0.1,
+    "context_data_top": 40,
+    "probation_fe": 24
+  }
+}

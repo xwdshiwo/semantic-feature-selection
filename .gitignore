@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+results/
+*.npz
+*.npy
+*.joblib
+agent_records/
